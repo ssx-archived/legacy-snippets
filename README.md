@@ -14,4 +14,4 @@ These are provided as is, with no support.
 
 ### License
 
-Please see the LICENSE file.
+Please see the `LICENSE.md` file.
